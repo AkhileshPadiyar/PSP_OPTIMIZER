@@ -7,8 +7,6 @@
 
 # 1. Project Objective
 
-Developed a beginner-friendly web application that simulates the scheduling operations of a Pumped Storage Hydro Power Plant (PSP).
-
 The application represents a simplified Decision Support System (DSS) similar to the one used in electric utility organizations such as THDCIL.
 
 The objective is to:
